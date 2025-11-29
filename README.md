@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Overview  
-This repository contains my personal Jira training lab, created to build real-world experience with Jira Service Management, ticket lifecycle design, and customer support workflows.  
+This repository contains my personal Jira training lab (using Jira Cloud Free Plan), created to build real-world experience with Jira Service Management, ticket lifecycle design, and customer support workflows.  
 The purpose is to demonstrate practical skills relevant to Customer Support, Customer Success, IT Support, and Technical Support roles.
 
 ---
