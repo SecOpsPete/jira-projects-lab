@@ -252,7 +252,7 @@ Queues demonstrate my understanding of:
 ### This dashboard presents a high-level overview of ticket volume, workflow states, and team activity:
 <br>
 
-<img src="Dashboard.png" width="100%">
+<img src="images/Dashboard.png?refresh=1" width="100%">
 <br>
 
 ---
