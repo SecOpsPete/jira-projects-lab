@@ -2,6 +2,10 @@
 # Jira Customer Service Lab  
 *A Complete Hands‑On Build of a Professional Support Environment in Jira Service Management*  
 Author: **Peter Van Rossum (SecOpsPete)**  
+<br>
+
+<img src="images/jira-seeklogo.png" width="75%">
+
 
 ---
 
@@ -38,25 +42,6 @@ This project represents a **full lifecycle support system**, including:
 - Intelligent routing based on agent/customer behavior  
 
 The end result is a clean, scalable, support‑ready environment identical to the tooling used by Customer Support Engineers, ITSM teams, SaaS support desks, and internal service organizations.
-
----
-
-# 📁 Repository Structure
-
-```
-jira-customer-service-lab/
-│
-├─ README.md   ← This file
-└─ screenshots/   ← placeholder folder for future visuals
-     ├── project-home.png
-     ├── workflow-diagram.png
-     ├── request-types.png
-     ├── portal-preview.png
-     ├── queues-final.png
-     ├── automation-rule1.png
-     ├── automation-rule2.png
-     ├── automation-rule3.png
-```
 
 ---
 
