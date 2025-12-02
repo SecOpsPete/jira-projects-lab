@@ -209,25 +209,22 @@ A good portal experience reduces incorrect submissions and improves CSAT (Custom
 
 I created queues aligned to industry‑standard support flows:
 
-### **New / Unassigned**
+#### **New / Unassigned**
 All incoming tickets, sorted by priority.
 
-### **Waiting for Customer**
+#### **Waiting for Customer**
 Tickets that require customer action.
 
-### **Pending Internal**
-Tickets awaiting approvals or internal processing.
-
-### **Open Service Requests**
+#### **Open Service Requests**
 Active work in progress.
 
-### **My Work**
+#### **My Work**
 Agent‑specific queue.
 
-### **High Priority Incidents (optional)**
+#### **High Priority Incidents (optional)**
 To simulate SLA‑driven urgency.
 
-### Support Board — Shows live Kanban workflow for ticket triage:
+#### Support Board — Shows live Kanban workflow for ticket triage:
 <br>
 
 <img src="images/BoardView.png" width="150%">
@@ -250,6 +247,12 @@ Queues demonstrate my understanding of:
 <br>
 
 <img src="images/SLA.png" width="85%">
+<br>
+
+### This dashboard presents a high-level overview of ticket volume, workflow states, and team activity:
+<br>
+
+<img src="Dashboard.png" width="100%">
 <br>
 
 ---
@@ -282,7 +285,7 @@ If a ticket is in *Waiting for Customer* and the customer does not reply for 3 d
 ### Automation Rules — Displays lifecycle automation and SLA-enforcing rules:
 <br>
 
-<img src="images/AutomationRules.png" width="125%">
+<img src="images/AutomationRules2.png" width="125%">
 <br>
 
 ---
