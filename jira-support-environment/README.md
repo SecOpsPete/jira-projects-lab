@@ -4,7 +4,7 @@
 Author: **Peter Van Rossum (SecOpsPete)**  
 <br>
 
-<img src="images/jira-seeklogo.png" width="75%">
+<img src="images/jira-seeklogo.png" width="50%">
 
 
 ---
@@ -61,9 +61,12 @@ Choosing Jira Service Management ensures access to:
 - Customer portal  
 - Request type schemas  
 - Automations designed for support teams  
+<br>
 
-**Screenshot placeholder:**  
-`![Project Setup](screenshots/project-home.png)`
+### People & Access — Shows admin, service desk team, and customer role configuration:
+<br>
+
+<img src="images/Access.png" width="85%">
 
 ---
 
@@ -85,9 +88,6 @@ Actions I performed:
 
 This step shows I understand how **information architecture** affects customer experience and agent efficiency.
 
-**Screenshot placeholder:**  
-`![Cleanup](screenshots/template-cleanup.png)`
-
 ---
 
 # STEP 3 — Designing the Workflow  
@@ -95,11 +95,11 @@ This step shows I understand how **information architecture** affects customer e
 
 I modified the default workflow to reflect a realistic support pipeline:
 
-### ✔ NEW  
-### ✔ IN PROGRESS  
-### ✔ PENDING  
-### ✔ WAITING FOR CUSTOMER  
-### ✔ DONE  
+#### ✔ NEW  
+#### ✔ IN PROGRESS  
+#### ✔ PENDING  
+#### ✔ WAITING FOR CUSTOMER  
+#### ✔ DONE  
 
 Each status exists for a reason:
 
@@ -121,8 +121,16 @@ Ticket resolution finalized.
 The workflow reflects a fundamental principle in support operations:  
 **status represents ownership** — either the support team or the customer.
 
-**Screenshot placeholder:**  
-`![Workflow Diagram](screenshots/workflow-diagram.png)`
+### Workflow Diagram — Full lifecycle from New → In Progress → Waiting → Resolved
+<br>
+
+<img src="images/Workflow.png" width="65%">
+
+### Agent Issue View — Demonstrates comments, internal notes, SLA timers, and resolution flow:
+<br>
+
+<img src="images/IssueView.png" width="85%">
+<br>
 
 ---
 
@@ -161,8 +169,11 @@ By doing this I demonstrate my ability to:
 - Optimize agent handling time  
 - Apply best practices for request categorization  
 
-**Screenshot placeholder:**  
-`![Request Types](screenshots/request-types.png)`
+### Request Types — Backend configuration of work types and portal mappings:
+<br>
+
+<img src="images/RequestTypes.png" width="140%">
+<br>
 
 ---
 
@@ -179,8 +190,17 @@ I reorganized the customer portal with:
 
 A good portal experience reduces incorrect submissions and improves CSAT (Customer Satisfaction).
 
-**Screenshot placeholder:**  
-`![Portal](screenshots/portal-preview.png)`
+### Customer Portal Homepage — Clean, organized portal groups for intuitive intake:
+<br>
+
+<img src="images/PortalView.png" width="85%">
+<br>
+
+### Customer Intake Form — Example of a structured and user-friendly request form
+<br>
+
+<img src="images/IntakeForm.png" width="85%">
+<br>
 
 ---
 
@@ -207,6 +227,12 @@ Agent‑specific queue.
 ### **High Priority Incidents (optional)**
 To simulate SLA‑driven urgency.
 
+### Support Board — Shows live Kanban workflow for ticket triage:
+<br>
+
+<img src="images/BoardView.png" width="150%">
+<br>
+
 Queues demonstrate my understanding of:
 
 - SLAs  
@@ -214,8 +240,17 @@ Queues demonstrate my understanding of:
 - Triage methodology  
 - Prioritization logic  
 
-**Screenshot placeholder:**  
-`![Queues](screenshots/queues-final.png)`
+### List View — Table-style overview used by leads/managers for tracking all tickets:
+<br>
+
+<img src="images/ListView.png" width="150%">
+<br>
+
+### SLA Settings — Time to First Response and Time to Resolution rules by priority:
+<br>
+
+<img src="images/SLA.png" width="85%">
+<br>
 
 ---
 
@@ -244,8 +279,11 @@ If a ticket is in *Waiting for Customer* and the customer does not reply for 3 d
 - Closes tickets older than 3 days  
 - Adds an auto‑closure message  
 
-**Screenshot placeholder:**  
-`![Automation Rule 1](screenshots/automation-rule1.png)`
+### Automation Rules — Displays lifecycle automation and SLA-enforcing rules:
+<br>
+
+<img src="images/AutomationRules.png" width="125%">
+<br>
 
 ---
 
@@ -267,9 +305,6 @@ If a ticket receives a comment from **anyone except the agent**, it transitions 
 PENDING
 ```
 
-**Screenshot placeholder:**  
-`![Automation Rule 2](screenshots/automation-rule2.png)`
-
 ---
 
 ## 🔧 Rule 3 — Set to Waiting for Customer When Agent Replies  
@@ -286,9 +321,6 @@ This eliminates the manual task of updating ticket status and ensures a consiste
 ```
 WAITING FOR CUSTOMER
 ```
-
-**Screenshot placeholder:**  
-`![Automation Rule 3](screenshots/automation-rule3.png)`
 
 ---
 
