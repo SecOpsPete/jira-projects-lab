@@ -146,28 +146,6 @@ I configured meaningful request types including:
 
 Each request type was mapped to the same underlying workflow but customized with its own fields and descriptive prompts.
 
-For example:
-
-### **Software Request**
-Fields included:
-- What software is needed?  
-- Business justification  
-- Device information  
-- Required date  
-
-### **Hardware Request**
-Fields included:
-- Hardware type  
-- Shipping / location details  
-- Approval information  
-- Replacement vs new request  
-
-By doing this I demonstrate my ability to:
-
-- Create structured intake  
-- Reduce back‑and‑forth with customers  
-- Optimize agent handling time  
-- Apply best practices for request categorization  
 
 ### Request Types — Backend configuration of work types and portal mappings:
 <br>
