@@ -11,9 +11,7 @@ Author: **Peter Van Rossum (SecOpsPete)**
 
 ## 📌 Purpose of This Project
 
-This lab demonstrates my ability to design, configure, and document a **fully operational Jira Service Desk (Jira Service Management)** environment—exactly the way support teams, IT helpdesks, SaaS vendors, and customer success groups use Jira in the real world.
-
-I wrote this repository in **first‑person**, because my intent is to show employers that I not only understand Jira’s concepts, but can **architect an entire support system from scratch**, justify each decision, and explain how each configuration supports customer‑service workflows, SLAs, triage efficiency, and real‑world operational needs.
+This lab demonstrates my ability to design, configure, and document a fully operational Jira Service Desk (Jira Service Management) environment—exactly the way support teams, IT helpdesks, SaaS vendors, and customer success groups use Jira in the real world.
 
 This lab is based on a complete 7‑step build:
 
@@ -25,14 +23,10 @@ This lab is based on a complete 7‑step build:
 6. Building internal support queues  
 7. Implementing automation rules  
 
-Every step is explained not as a “click here, click there” tutorial, but as **functional reasoning**—why I made each configuration and how it contributes to a professional support environment.
-
-Throughout this documentation I've included screenshot placeholders so this repo can later contain a complete visual walkthrough.
-
 ---
 
 # 🧭 High‑Level Overview  
-This project represents a **full lifecycle support system**, including:
+This project represents a full lifecycle support system, including:
 
 - Intake (customer portal & request types)  
 - Workflow and status design  
@@ -338,8 +332,6 @@ This project demonstrates my ability to:
 - Document systems clearly and professionally  
 - Apply ITIL‑inspired processes  
 - Think like a Support Engineer and act like a Customer‑Experience professional  
-
-This Jira Customer Service Lab showcases my hands‑on capability not only to **use Jira**, but to **engineer a customer‑support system** from first principles—all documented here for hiring managers, interview discussions, and future reference.
 
 ---
  
