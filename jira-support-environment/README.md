@@ -297,30 +297,6 @@ This eliminates the manual task of updating ticket status and ensures a consiste
 WAITING FOR CUSTOMER
 ```
 
----
-
-# 🎯 Future Enhancements
-
-This environment is intentionally scalable.  
-Here are the enhancements I plan to implement:
-
-### 🔹 Reopen When Customer Comments After Closure  
-Keeps reopened issues from generating duplicates.
-
-### 🔹 Priority‑Based Assignment  
-Auto‑route P1 incidents to myself.
-
-### 🔹 SLA Warning Notifications  
-Send agents pre‑breach alerts.
-
-### 🔹 Auto‑Assign to On‑Call Agent  
-Simulates a 24/7 support environment.
-
-### 🔹 AI‑Assisted Categorization (future study)  
-Machine learning‑based routing using Jira automation with AI capabilities.
-
----
-
 # 📝 Final Summary
 
 This project demonstrates my ability to:
