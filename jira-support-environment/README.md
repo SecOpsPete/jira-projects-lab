@@ -1,5 +1,5 @@
 
-# Jira Customer Service Lab  
+# Jira Technology Adoption & Platform Implementation Lab 
 *A Complete Hands‑On Build of a Professional Support Environment in Jira Service Management*  
 Author: **Peter Van Rossum (SecOpsPete)**  
 <br>
