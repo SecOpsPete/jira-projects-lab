@@ -1,4 +1,4 @@
-# Jira Projects Lab  
+# Jira Technology Adoption & Platform Implementation Lab 
 ### *Hands-on training environment for mastering Jira Service Management*
 
 ---
