@@ -303,7 +303,7 @@ This project demonstrates my ability to:
 
 - Architect a **complete Jira Service Management environment**  
 - Configure workflows, queues, request types, and automations  
-- Design a customer‑friendly portal  
+- Design a stakeholder‑friendly portal  
 - Build industry‑standard support automations  
 - Document systems clearly and professionally  
 - Apply ITIL‑inspired processes  
