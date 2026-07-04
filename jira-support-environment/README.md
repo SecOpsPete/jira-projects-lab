@@ -262,7 +262,7 @@ If a ticket is in *Waiting for Customer* and the customer does not reply for 3 d
 
 ---
 
-## 🔧 Rule 2 — Set to Pending When Customer Replies  
+## 🔧 Rule 2 — Set to Pending When Stakeholder Replies  
 ### **Purpose**
 A customer reply signals the agent needs to take action.
 
