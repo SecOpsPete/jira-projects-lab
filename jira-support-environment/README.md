@@ -149,7 +149,7 @@ Each request type was mapped to the same underlying workflow but customized with
 
 ---
 
-# STEP 5 — Designing the Customer Portal  
+# STEP 5 — Designing the Stakeholder Portal  
 ### *Design Intent: Present a clean, intuitive portal that reduces friction and improves support intake quality.*
 
 I reorganized the customer portal with:
@@ -162,13 +162,13 @@ I reorganized the customer portal with:
 
 A good portal experience reduces incorrect submissions and improves CSAT (Customer Satisfaction).
 
-### Customer Portal Homepage — Clean, organized portal groups for intuitive intake:
+### Stakeholder Portal Homepage — Clean, organized portal groups for intuitive intake:
 <br>
 
 <img src="images/PortalView.png" width="85%">
 <br>
 
-### Customer Intake Form — Example of a structured and user-friendly request form
+### Stakeholder Intake Form — Example of a structured and user-friendly request form
 <br>
 
 <img src="images/IntakeForm.png" width="85%">
@@ -238,7 +238,7 @@ I implemented three core rules:
 
 ---
 
-## 🔧 Rule 1 — Auto‑Close Tickets With No Customer Response  
+## 🔧 Rule 1 — Auto‑Close Tickets With No Stakeholder Response  
 ### **Purpose**
 If a ticket is in *Waiting for Customer* and the customer does not reply for 3 days, it should automatically close.
 
@@ -282,7 +282,7 @@ PENDING
 
 ---
 
-## 🔧 Rule 3 — Set to Waiting for Customer When Agent Replies  
+## 🔧 Rule 3 — Set to Waiting for Stakeholder When Agent Replies  
 ### **Purpose**
 When I respond to a ticket, Jira should automatically move it into the correct state, proving I understand ownership shifts.
 
